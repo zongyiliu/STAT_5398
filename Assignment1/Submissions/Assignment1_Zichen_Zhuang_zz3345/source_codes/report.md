@@ -105,7 +105,7 @@ This setup avoids look-ahead bias by only using information available at the tim
 
 ### 3.1 Performance Overview
 
-![Portfolio Performance](./source_codes/results/portfolio_performance_comparison.png)
+![Portfolio Performance](/source_codes/results/portfolio_performance_comparison.png)
 
 **Figure 1**: Cumulative performance comparison showing our strategy (blue) vs. S&P 500 (green) vs. QQQ (red).
 
