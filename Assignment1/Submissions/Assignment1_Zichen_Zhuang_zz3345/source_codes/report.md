@@ -4,21 +4,21 @@
 
 ## Summary
 
-This report presents a quantitative trading strategy that combines machine learning-based stock selection with mean-variance portfolio optimization. The strategy achieved a **cumulative return of 207.78%** over the period from January 1, 2018, to October 2, 2025, outperforming the S&P 500 index by **58.66%** with a Sharpe ratio of **0.9725**.
+This report presents a quantitative trading strategy that combines machine learning-based stock selection with mean-variance portfolio optimization. The strategy achieved a **cumulative return of 207.78%** over the period from January 2018, to October 2025, outperforming the S&P 500 index by **56.74%** with a Sharpe ratio of **0.96**.
 
 **Key Results:**
 
-**Cumulative Return**: 207.78%
+**Cumulative Return**: 205.86%
 
-**Annualized Return**: 15.65%
+**Annualized Return**: 15.55%
 
-**Sharpe Ratio**: 0.9725
+**Sharpe Ratio**: 0.96
 
 **Maximum Drawdown**: -30.90%
 
 **Win Rate**: 53.48%
 
-**Outperformance vs S&P 500**: +58.66%
+**Outperformance vs S&P 500**: +56.74%
 
 ---
 
@@ -115,13 +115,13 @@ The strategy consistently outperformed the S&P 500 throughout the testing period
 
 | Metric | Our Strategy | S&P 500 | QQQ |
 |--------|-------------|---------|-----|
-| Cumulative Return | **207.78%** | 149.12% | 300.50% |
-| Annual Return | **15.65%** | ~10.5% | ~19.5% |
-| Sharpe Ratio | **0.97** | ~0.65 | ~0.85 |
+| Cumulative Return | **205.86%** | 149.12% | 300.50% |
+| Annual Return | **15.55%** | ~10.5% | ~19.5% |
+| Sharpe Ratio | **0.96** | ~0.65 | ~0.85 |
 | Max Drawdown | **-30.90%** | ~-30% | ~-35% |
 | Win Rate | **53.48%** | ~51% | ~52% |
 
-The Sharpe ratio of 0.97 is particularly noteworthy.
+The Sharpe ratio of 0.96 is particularly noteworthy.
 
 ### 3.3 Key Observations
 

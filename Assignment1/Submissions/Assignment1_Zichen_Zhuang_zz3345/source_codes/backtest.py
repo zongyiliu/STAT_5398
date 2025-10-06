@@ -242,6 +242,7 @@ if __name__ == "__main__":
 
     dailyinfo.dropna(inplace=True)
 
+    # Set start date 2018-01-01
     backtest_start_date = pd.Timestamp("2018-01-01")
     dailyinfo = dailyinfo[(dailyinfo["datadate"] >= backtest_start_date) & (dailyinfo["datadate"] <= weights["trade_date"].max())]
     dates = sorted(dailyinfo["datadate"].unique())
@@ -286,13 +287,17 @@ if __name__ == "__main__":
     capital = 1e7
     port = Portfolio(capital)
     port_mvs_quart = []
+    
+    # mark first day rebalancing
+    first_rebalancing_done = False
 
     for date in tqdm(dates, desc="Backtesting"):
         cur_weights = weights[weights["trade_date"] == date][["tic", "weights"]].set_index("tic")
         cur_info = dailyinfo[dailyinfo["datadate"] == date].set_index("tic")
 
-        if date in tradedates:
+        if not first_rebalancing_done or date in tradedates:
             port.daily_update(date, cur_weights, cur_info, rebalancing = True)
+            first_rebalancing_done = True
         else:
             port.daily_update(date, cur_weights, cur_info, rebalancing = False)
 
