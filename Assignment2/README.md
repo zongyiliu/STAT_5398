@@ -410,4 +410,4 @@ Especially, in evaluation parts, you should talk about:
 + Depth of analysis in comparing the models (Subjective Analysis)
 + Clarity and professionalism in reporting (Subjective Analysis)
 
-For specific report example, you can refer to [my blog on medium](https://medium.com/@SkylineYang/applying-new-llm-models-on-fingpt-fine-tune-deepseek-and-llama3-6ac9198d88b2).
+If you don't know what to say in your report, you can refer to [my blog on medium](https://medium.com/@SkylineYang/applying-new-llm-models-on-fingpt-fine-tune-deepseek-and-llama3-6ac9198d88b2).
