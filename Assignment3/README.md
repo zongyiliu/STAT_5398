@@ -7,11 +7,11 @@ In this assignment, we want to let you learn:
 + how to apply LLMs on quantitative researches
 + whole process on designing a quantitative trading strategy
 
-Assignment 3 Report Submission Due Day: Dec 19th, 2025.
+Assignment 3 Report Submission Due Day: Dec 12th, 2025.
 
 > [!Important]
 >
-> Final Report of course GR5398 should be sent to Professor Demissie Alemayehu before Dec 19th, 2025!
+> Final Report of course GR5398 should be sent to Professor Demissie Alemayehu before Dec 12th, 2025!
 
 ## 1. How to apply LLMs on quantitative researches?
 
