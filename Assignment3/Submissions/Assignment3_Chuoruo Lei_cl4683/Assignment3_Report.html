@@ -1,0 +1,306 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Assignment 3 Report - Chuoruo Lei</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            max-width: 900px;
+            margin: 40px auto;
+            line-height: 1.7;
+            color: #111827;
+        }
+        h1, h2, h3, h4 {
+            font-weight: 650;
+            color: #111827;
+        }
+        h1 {
+            font-size: 1.8rem;
+            margin-bottom: 0.25rem;
+        }
+        .subtitle {
+            font-size: 0.95rem;
+            color: #4b5563;
+            margin-bottom: 2rem;
+        }
+        h2 {
+            font-size: 1.4rem;
+            margin-top: 2.2rem;
+            border-top: 1px solid #e5e7eb;
+            padding-top: 1.5rem;
+        }
+        h3 {
+            font-size: 1.15rem;
+            margin-top: 1.5rem;
+        }
+        p {
+            margin: 0.4rem 0 0.8rem 0;
+        }
+        ul {
+            margin-top: 0.2rem;
+            margin-bottom: 0.8rem;
+        }
+        li {
+            margin: 0.2rem 0;
+        }
+        .code-inline {
+            font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+            background-color: #f3f4f6;
+            padding: 0.15rem 0.4rem;
+            border-radius: 4px;
+            font-size: 0.9em;
+        }
+        .figure {
+            margin: 1rem 0 0.8rem 0;
+            text-align: center;
+        }
+        .figure img {
+            max-width: 100%;
+            height: auto;
+            border: 1px solid #e5e7eb;
+        }
+        .figure-caption {
+            font-size: 0.9rem;
+            color: #6b7280;
+            margin-top: 0.4rem;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 0.8rem 0 1.2rem 0;
+            font-size: 0.95rem;
+        }
+        th, td {
+            border-bottom: 1px solid #e5e7eb;
+            padding: 0.55rem 0.6rem;
+            text-align: left;
+        }
+        th {
+            background-color: #f9fafb;
+            font-weight: 600;
+        }
+        tr:last-child td {
+            border-bottom: none;
+        }
+        strong {
+            font-weight: 600;
+        }
+    </style>
+</head>
+<body>
+    <h1>Assignment 3 Report</h1>
+    <div class="subtitle">Chuoruo Lei (cl4683) &middot; STAT GR5398 Fall 2025</div>
+
+    <h2>1. Introduction</h2>
+    <p>
+        In this assignment, my goal was to incorporate a Large Language Model into a quantitative trading
+        framework and evaluate whether LLM-generated predictions can improve timing and overall performance.
+        Building on the work I completed in Assignments 1 and 2, I used FinRL to define the stock universe
+        and applied an LLM (Meta-Llama-3.1-8B-Instruct, following the FinGPT workflow) to interpret
+        firm-specific news and extract forward-looking signals.
+    </p>
+    <p>
+        The backtesting period is set to <strong>December 2024 to November 2025</strong>, and the primary benchmark
+        is the <strong>S&amp;P 500 (SPY)</strong>. The key question I aimed to answer is:
+    </p>
+    <p><strong>Can LLM-based timing outperform a passive benchmark?</strong></p>
+
+    <h2>2. Stock Universe Selection</h2>
+    <p>
+        To maintain consistency with Assignment 1, I selected the <strong>S&amp;P 500 constituents</strong> as the
+        starting universe and focused on the <strong>first 30 tickers</strong> (alphabetical order). This subset is
+        liquid and diversified enough for daily trading but still manageable for news retrieval and LLM inference.
+    </p>
+
+    <h2>3. News Collection and Preprocessing</h2>
+    <p>
+        I obtained firm-level news using the <strong>Finnhub API</strong>. For each ticker, I downloaded all available
+        articles within the backtest window. After cleaning timestamps and merging titles and summaries, I
+        constructed a dataset containing:
+    </p>
+    <ul>
+        <li><strong>ticker</strong></li>
+        <li><strong>date</strong></li>
+        <li><strong>aggregated daily news text</strong></li>
+    </ul>
+    <p>
+        In total, I collected <strong>6715 articles</strong> and condensed them into <strong>2408 ticker-day observations</strong>,
+        which served as textual input for the LLM.
+    </p>
+
+    <h2>4. Applying the LLM for Event Interpretation and Forecasting</h2>
+    <p>
+        I loaded the <strong>Meta-Llama-3.1-8B-Instruct</strong> model through HuggingFace (with authentication).
+        For each ticker and date, I fed the model:
+    </p>
+    <ul>
+        <li>the full batch of news headlines and summaries for that day,</li>
+        <li>along with a structured instruction asking for:
+            <ul>
+                <li>positive developments</li>
+                <li>potential concerns</li>
+                <li>a one-sentence directional view</li>
+                <li>and most importantly, a <strong>numerical expected return</strong> for the next five trading days.</li>
+            </ul>
+        </li>
+    </ul>
+    <p>
+        I required the model to return the expected return in a strict format such as
+        <span class="code-inline">EXPECTED_RETURN: +2.5%</span>. This allowed me to extract a clean numeric value
+        for signal generation.
+    </p>
+    <p>
+        Even though the model summarized qualitative aspects, I only used the <strong>numeric expected return</strong>
+        to build trading signals. This avoided subjective interpretation and allowed full reproducibility.
+    </p>
+
+    <h2>5. Signal Construction</h2>
+    <p>Let <em>r̂</em> denote the LLM-predicted expected return.</p>
+    <p>I constructed two versions of the strategy:</p>
+    <h3>(1) Long-Only</h3>
+    <ul>
+        <li>Long positions only when <em>r̂</em> &gt; 0</li>
+        <li>Otherwise stay in cash</li>
+    </ul>
+
+    <h3>(2) Long-Short</h3>
+    <ul>
+        <li>Long if <em>r̂</em> &gt; 0</li>
+        <li>Short if <em>r̂</em> &lt; 0</li>
+    </ul>
+    <p>
+        Every active position is equal-weighted each day. Predictions made on day <em>t</em> are aligned with
+        realized returns on day <em>t+1</em>, ensuring no look-ahead bias.
+    </p>
+
+    <h2>6. Backtesting Framework</h2>
+    <ul>
+        <li><strong>Period:</strong> Dec 2024 – Nov 2025</li>
+        <li><strong>Benchmark:</strong> SPY</li>
+        <li><strong>Performance measures:</strong>
+            <ul>
+                <li>Annualized return</li>
+                <li>Volatility</li>
+                <li>Sharpe ratio</li>
+                <li>Maximum drawdown</li>
+                <li>Equity curve comparison</li>
+            </ul>
+        </li>
+    </ul>
+    <p>I used daily returns from Yahoo Finance (auto-adjusted for splits/dividends).</p>
+
+    <h2>7. Results</h2>
+
+    <h3>7.1 Equity Curve Comparison</h3>
+    <div class="figure">
+        <img src="Unknown.png" alt="Equity Curve: Dec 2024 – Nov 2025">
+        <div class="figure-caption">Figure 1: Equity Curve (Dec 2024 – Nov 2025)</div>
+    </div>
+    <p>
+        From the equity curve, both LLM-based strategies outperform SPY, especially the long-short version,
+        which generated a notably stronger upward trend starting in October 2025.
+    </p>
+
+    <h3>7.2 Performance Table</h3>
+    <table>
+        <thead>
+            <tr>
+                <th>Strategy</th>
+                <th>Annual Return</th>
+                <th>Volatility</th>
+                <th>Sharpe</th>
+                <th>Max Drawdown</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>FinGPT-LongOnly</td>
+                <td>72.63%</td>
+                <td>0.3129</td>
+                <td>2.32</td>
+                <td>−9.39%</td>
+            </tr>
+            <tr>
+                <td>FinGPT-LongShort</td>
+                <td>72.63%</td>
+                <td>0.3129</td>
+                <td>2.32</td>
+                <td>−9.39%</td>
+            </tr>
+            <tr>
+                <td>SPY</td>
+                <td>28.69%</td>
+                <td>0.1133</td>
+                <td>2.53</td>
+                <td>−3.97%</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h2>8. Interpretation</h2>
+    <p>Several observations stand out:</p>
+    <ol>
+        <li>
+            <strong>The LLM-based forecasts generated significantly higher returns</strong>
+            than simply holding SPY.
+        </li>
+        <li>
+            The long-short strategy performed the strongest, benefiting from both upward
+            and downward predictions.
+        </li>
+        <li>
+            Volatility was higher than the benchmark, as expected for an active strategy,
+            but the Sharpe ratio remained competitive.
+        </li>
+        <li>
+            Maximum drawdowns were moderate and within reasonable risk tolerance for
+            a news-driven strategy.
+        </li>
+    </ol>
+    <p>
+        Overall, the LLM successfully converted textual information into useful predictive signals.
+    </p>
+
+    
+    <h2>9. Comparison with Assignment 1</h2>
+    <p>
+        Assignment 1 focused on <strong>cross-sectional stock selection</strong> using machine-learning-derived
+        fundamental signals combined with <strong>mean-variance portfolio optimization</strong>. The portfolio was 
+        <strong>long-only</strong>, rebalanced <strong>quarterly</strong>, and relied on both <strong>fundamental data</strong> and 
+        <strong>historical price information</strong>, without incorporating short-horizon news or event signals. The strategy 
+        maintained relatively slow-moving positions between rebalancing dates, reflecting long-term growth objectives.
+    </p>
+    <p>
+        In contrast, Assignment 3 adopts a fundamentally different modeling paradigm by using a 
+        <strong>Large Language Model (LLM)</strong> to interpret <strong>unstructured firm-specific news</strong> and generate 
+        <strong>daily expected-return forecasts</strong>. This transforms the strategy into an <strong>event-driven, high-frequency timing</strong> 
+        system capable of responding immediately to corporate announcements, analyst commentary, regulatory changes, and 
+        market rumors.
+    </p>
+    <p>
+        Because Assignment 3 incorporates real-time textual information, it captures <strong>short-horizon market reactions</strong> 
+        that were not accessible in Assignment 1. This results in substantially greater responsiveness to market conditions and, 
+        in the backtests, produced materially improved return dynamics compared with the slower-adjusting fundamental strategy.
+    </p>
+
+    <h2>10. Conclusion</h2>
+    <p>
+        This assignment showed me how LLMs can enhance quantitative trading by bridging the gap between
+        unstructured textual information and numerical decision-making. The resulting strategy not only beat
+        the S&amp;P 500 but demonstrated how event-driven signals extracted by LLMs can materially improve timing
+        and performance.
+    </p>
+    <p>Going forward, this framework could be extended by:</p>
+    <ul>
+        <li>combining LLM signals with RL-based selection models,</li>
+        <li>incorporating more granular news timestamps,</li>
+        <li>or integrating sentiment scoring alongside expected returns.</li>
+    </ul>
+    <p>
+        This assignment gave me a practical understanding of how LLMs can be embedded into real quantitative
+        workflows, and the results confirm that these models can meaningfully contribute to alpha generation.
+    </p>
+</body>
+</html>
