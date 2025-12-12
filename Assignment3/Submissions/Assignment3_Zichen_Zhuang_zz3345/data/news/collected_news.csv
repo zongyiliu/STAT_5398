@@ -1,0 +1,165 @@
+datetime,headline,summary,source,url,category,sentiment,gvkey,ticker,date
+1752552000,HD Faces Regulatory Challenges,Regulatory concerns may impact HD's operations in key markets.,MockSource,https://example.com/news/HD/0,regulatory,negative,28118,HD,2025-07-15
+1764046800,Analyst Upgrades HD Rating,Major investment firm upgrades HD to Buy with higher price target.,MockSource,https://example.com/news/HD/1,analyst,positive,28118,HD,2025-11-25
+1755403200,Analyst Upgrades HD Rating,Major investment firm upgrades HD to Buy with higher price target.,MockSource,https://example.com/news/HD/2,analyst,positive,28118,HD,2025-08-17
+1763528400,HD Faces Regulatory Challenges,Regulatory concerns may impact HD's operations in key markets.,MockSource,https://example.com/news/HD/3,regulatory,negative,28118,HD,2025-11-19
+1750564800,HD Reports Strong Quarterly Earnings,Company HD announced better than expected earnings driven by strong sales growth.,MockSource,https://example.com/news/HD/4,earnings,positive,28118,HD,2025-06-22
+1746590400,Analyst Upgrades NVDA Rating,Major investment firm upgrades NVDA to Buy with higher price target.,MockSource,https://example.com/news/NVDA/0,analyst,positive,10121,NVDA,2025-05-07
+1737176400,NVDA Reports Strong Quarterly Earnings,Company NVDA announced better than expected earnings driven by strong sales growth.,MockSource,https://example.com/news/NVDA/1,earnings,positive,10121,NVDA,2025-01-18
+1739854800,NVDA Announces New Product Launch,NVDA unveiled innovative new products expected to drive future growth.,MockSource,https://example.com/news/NVDA/2,product,positive,10121,NVDA,2025-02-18
+1752206400,NVDA Announces New Product Launch,NVDA unveiled innovative new products expected to drive future growth.,MockSource,https://example.com/news/NVDA/3,product,positive,10121,NVDA,2025-07-11
+1738126800,CSCO Announces New Product Launch,CSCO unveiled innovative new products expected to drive future growth.,MockSource,https://example.com/news/CSCO/0,product,positive,29804,CSCO,2025-01-29
+1736744400,CSCO Reports Strong Quarterly Earnings,Company CSCO announced better than expected earnings driven by strong sales growth.,MockSource,https://example.com/news/CSCO/1,earnings,positive,29804,CSCO,2025-01-13
+1749614400,Analyst Upgrades CSCO Rating,Major investment firm upgrades CSCO to Buy with higher price target.,MockSource,https://example.com/news/CSCO/2,analyst,positive,29804,CSCO,2025-06-11
+1759118400,CSCO Reports Strong Quarterly Earnings,Company CSCO announced better than expected earnings driven by strong sales growth.,MockSource,https://example.com/news/CSCO/3,earnings,positive,29804,CSCO,2025-09-29
+1741323600,AXP Announces New Product Launch,AXP unveiled innovative new products expected to drive future growth.,MockSource,https://example.com/news/AXP/0,product,positive,147868,AXP,2025-03-07
+1763614800,AXP Reports Strong Quarterly Earnings,Company AXP announced better than expected earnings driven by strong sales growth.,MockSource,https://example.com/news/AXP/1,earnings,positive,147868,AXP,2025-11-20
+1759291200,AXP Reports Strong Quarterly Earnings,Company AXP announced better than expected earnings driven by strong sales growth.,MockSource,https://example.com/news/AXP/2,earnings,positive,147868,AXP,2025-10-01
+1746590400,Analyst Upgrades AXP Rating,Major investment firm upgrades AXP to Buy with higher price target.,MockSource,https://example.com/news/AXP/3,analyst,positive,147868,AXP,2025-05-07
+1745467200,Analyst Upgrades AXP Rating,Major investment firm upgrades AXP to Buy with higher price target.,MockSource,https://example.com/news/AXP/4,analyst,positive,147868,AXP,2025-04-24
+1759118400,Analyst Upgrades INTC Rating,Major investment firm upgrades INTC to Buy with higher price target.,MockSource,https://example.com/news/INTC/0,analyst,positive,21825,INTC,2025-09-29
+1742702400,INTC Expands Market Share,INTC continues to gain market share through strategic initiatives.,MockSource,https://example.com/news/INTC/1,market,positive,21825,INTC,2025-03-23
+1744689600,INTC Announces New Product Launch,INTC unveiled innovative new products expected to drive future growth.,MockSource,https://example.com/news/INTC/2,product,positive,21825,INTC,2025-04-15
+1760932800,INTC Faces Regulatory Challenges,Regulatory concerns may impact INTC's operations in key markets.,MockSource,https://example.com/news/INTC/3,regulatory,negative,21825,INTC,2025-10-20
+1745812800,V Announces New Product Launch,V unveiled innovative new products expected to drive future growth.,MockSource,https://example.com/news/V/0,product,positive,3243,V,2025-04-28
+1738645200,V Faces Regulatory Challenges,Regulatory concerns may impact V's operations in key markets.,MockSource,https://example.com/news/V/1,regulatory,negative,3243,V,2025-02-04
+1762491600,V Expands Market Share,V continues to gain market share through strategic initiatives.,MockSource,https://example.com/news/V/2,market,positive,3243,V,2025-11-07
+1737954000,V Reports Strong Quarterly Earnings,Company V announced better than expected earnings driven by strong sales growth.,MockSource,https://example.com/news/V/3,earnings,positive,3243,V,2025-01-27
+1756526400,V Expands Market Share,V continues to gain market share through strategic initiatives.,MockSource,https://example.com/news/V/4,market,positive,3243,V,2025-08-30
+1749268800,Analyst Upgrades MMM Rating,Major investment firm upgrades MMM to Buy with higher price target.,MockSource,https://example.com/news/MMM/0,analyst,positive,34164,MMM,2025-06-07
+1757649600,MMM Expands Market Share,MMM continues to gain market share through strategic initiatives.,MockSource,https://example.com/news/MMM/1,market,positive,34164,MMM,2025-09-12
+1737349200,MMM Faces Regulatory Challenges,Regulatory concerns may impact MMM's operations in key markets.,MockSource,https://example.com/news/MMM/2,regulatory,negative,34164,MMM,2025-01-20
+1750824000,MMM Reports Strong Quarterly Earnings,Company MMM announced better than expected earnings driven by strong sales growth.,MockSource,https://example.com/news/MMM/3,earnings,positive,34164,MMM,2025-06-25
+1749700800,WBA Announces New Product Launch,WBA unveiled innovative new products expected to drive future growth.,MockSource,https://example.com/news/WBA/0,product,positive,6742,WBA,2025-06-12
+1757649600,WBA Reports Strong Quarterly Earnings,Company WBA announced better than expected earnings driven by strong sales growth.,MockSource,https://example.com/news/WBA/1,earnings,positive,6742,WBA,2025-09-12
+1754193600,WBA Reports Strong Quarterly Earnings,Company WBA announced better than expected earnings driven by strong sales growth.,MockSource,https://example.com/news/WBA/2,earnings,positive,6742,WBA,2025-08-03
+1740718800,WBA Announces New Product Launch,WBA unveiled innovative new products expected to drive future growth.,MockSource,https://example.com/news/WBA/3,product,positive,6742,WBA,2025-02-28
+1762056000,WBA Faces Regulatory Challenges,Regulatory concerns may impact WBA's operations in key markets.,MockSource,https://example.com/news/WBA/4,regulatory,negative,6742,WBA,2025-11-02
+1750132800,MA Reports Strong Quarterly Earnings,Company MA announced better than expected earnings driven by strong sales growth.,MockSource,https://example.com/news/MA/0,earnings,positive,7750,MA,2025-06-17
+1751083200,MA Expands Market Share,MA continues to gain market share through strategic initiatives.,MockSource,https://example.com/news/MA/1,market,positive,7750,MA,2025-06-28
+1764478800,MA Faces Regulatory Challenges,Regulatory concerns may impact MA's operations in key markets.,MockSource,https://example.com/news/MA/2,regulatory,negative,7750,MA,2025-11-30
+1756785600,MA Faces Regulatory Challenges,Regulatory concerns may impact MA's operations in key markets.,MockSource,https://example.com/news/MA/3,regulatory,negative,7750,MA,2025-09-02
+1760673600,IBM Announces New Product Launch,IBM unveiled innovative new products expected to drive future growth.,MockSource,https://example.com/news/IBM/0,product,positive,22703,IBM,2025-10-17
+1762056000,IBM Faces Regulatory Challenges,Regulatory concerns may impact IBM's operations in key markets.,MockSource,https://example.com/news/IBM/1,regulatory,negative,22703,IBM,2025-11-02
+1739163600,IBM Faces Regulatory Challenges,Regulatory concerns may impact IBM's operations in key markets.,MockSource,https://example.com/news/IBM/2,regulatory,negative,22703,IBM,2025-02-10
+1751688000,IBM Reports Strong Quarterly Earnings,Company IBM announced better than expected earnings driven by strong sales growth.,MockSource,https://example.com/news/IBM/3,earnings,positive,22703,IBM,2025-07-05
+1740632400,IBM Announces New Product Launch,IBM unveiled innovative new products expected to drive future growth.,MockSource,https://example.com/news/IBM/4,product,positive,22703,IBM,2025-02-27
+1753243200,PG Announces New Product Launch,PG unveiled innovative new products expected to drive future growth.,MockSource,https://example.com/news/PG/0,product,positive,7116,PG,2025-07-23
+1758340800,PG Faces Regulatory Challenges,Regulatory concerns may impact PG's operations in key markets.,MockSource,https://example.com/news/PG/1,regulatory,negative,7116,PG,2025-09-20
+1753329600,PG Announces New Product Launch,PG unveiled innovative new products expected to drive future growth.,MockSource,https://example.com/news/PG/2,product,positive,7116,PG,2025-07-24
+1761624000,Analyst Upgrades PG Rating,Major investment firm upgrades PG to Buy with higher price target.,MockSource,https://example.com/news/PG/3,analyst,positive,7116,PG,2025-10-28
+1756008000,Analyst Upgrades PG Rating,Major investment firm upgrades PG to Buy with higher price target.,MockSource,https://example.com/news/PG/4,analyst,positive,7116,PG,2025-08-24
+1761883200,INTC Reports Strong Quarterly Earnings,Company INTC announced better than expected earnings driven by strong sales growth.,MockSource,https://example.com/news/INTC/0,earnings,positive,14535,INTC,2025-10-31
+1754712000,INTC Expands Market Share,INTC continues to gain market share through strategic initiatives.,MockSource,https://example.com/news/INTC/1,market,positive,14535,INTC,2025-08-09
+1743825600,INTC Announces New Product Launch,INTC unveiled innovative new products expected to drive future growth.,MockSource,https://example.com/news/INTC/2,product,positive,14535,INTC,2025-04-05
+1761796800,Analyst Upgrades INTC Rating,Major investment firm upgrades INTC to Buy with higher price target.,MockSource,https://example.com/news/INTC/3,analyst,positive,14535,INTC,2025-10-30
+1748491200,JPM Expands Market Share,JPM continues to gain market share through strategic initiatives.,MockSource,https://example.com/news/JPM/0,market,positive,104432,JPM,2025-05-29
+1751515200,Analyst Upgrades JPM Rating,Major investment firm upgrades JPM to Buy with higher price target.,MockSource,https://example.com/news/JPM/1,analyst,positive,104432,JPM,2025-07-03
+1758168000,JPM Reports Strong Quarterly Earnings,Company JPM announced better than expected earnings driven by strong sales growth.,MockSource,https://example.com/news/JPM/2,earnings,positive,104432,JPM,2025-09-18
+1762750800,Analyst Upgrades JPM Rating,Major investment firm upgrades JPM to Buy with higher price target.,MockSource,https://example.com/news/JPM/3,analyst,positive,104432,JPM,2025-11-10
+1740114000,JPM Faces Regulatory Challenges,Regulatory concerns may impact JPM's operations in key markets.,MockSource,https://example.com/news/JPM/4,regulatory,negative,104432,JPM,2025-02-21
+1758427200,Analyst Upgrades NVDA Rating,Major investment firm upgrades NVDA to Buy with higher price target.,MockSource,https://example.com/news/NVDA/0,analyst,positive,4601,NVDA,2025-09-21
+1759550400,Analyst Upgrades NVDA Rating,Major investment firm upgrades NVDA to Buy with higher price target.,MockSource,https://example.com/news/NVDA/1,analyst,positive,4601,NVDA,2025-10-04
+1759204800,NVDA Reports Strong Quarterly Earnings,Company NVDA announced better than expected earnings driven by strong sales growth.,MockSource,https://example.com/news/NVDA/2,earnings,positive,4601,NVDA,2025-09-30
+1742961600,AXP Expands Market Share,AXP continues to gain market share through strategic initiatives.,MockSource,https://example.com/news/AXP/0,market,positive,15208,AXP,2025-03-26
+1762923600,AXP Faces Regulatory Challenges,Regulatory concerns may impact AXP's operations in key markets.,MockSource,https://example.com/news/AXP/1,regulatory,negative,15208,AXP,2025-11-12
+1745985600,Analyst Upgrades AXP Rating,Major investment firm upgrades AXP to Buy with higher price target.,MockSource,https://example.com/news/AXP/2,analyst,positive,15208,AXP,2025-04-30
+1763701200,V Expands Market Share,V continues to gain market share through strategic initiatives.,MockSource,https://example.com/news/V/0,market,positive,37233,V,2025-11-21
+1752984000,Analyst Upgrades V Rating,Major investment firm upgrades V to Buy with higher price target.,MockSource,https://example.com/news/V/1,analyst,positive,37233,V,2025-07-20
+1753934400,V Faces Regulatory Challenges,Regulatory concerns may impact V's operations in key markets.,MockSource,https://example.com/news/V/2,regulatory,negative,37233,V,2025-07-31
+1749873600,V Faces Regulatory Challenges,Regulatory concerns may impact V's operations in key markets.,MockSource,https://example.com/news/V/3,regulatory,negative,37233,V,2025-06-14
+1758945600,MMM Reports Strong Quarterly Earnings,Company MMM announced better than expected earnings driven by strong sales growth.,MockSource,https://example.com/news/MMM/0,earnings,positive,2574,MMM,2025-09-27
+1744344000,MMM Announces New Product Launch,MMM unveiled innovative new products expected to drive future growth.,MockSource,https://example.com/news/MMM/1,product,positive,2574,MMM,2025-04-11
+1759809600,MMM Faces Regulatory Challenges,Regulatory concerns may impact MMM's operations in key markets.,MockSource,https://example.com/news/MMM/2,regulatory,negative,2574,MMM,2025-10-07
+1756785600,MMM Reports Strong Quarterly Earnings,Company MMM announced better than expected earnings driven by strong sales growth.,MockSource,https://example.com/news/MMM/3,earnings,positive,2574,MMM,2025-09-02
+1756180800,MMM Faces Regulatory Challenges,Regulatory concerns may impact MMM's operations in key markets.,MockSource,https://example.com/news/MMM/4,regulatory,negative,2574,MMM,2025-08-26
+1763787600,XOM Announces New Product Launch,XOM unveiled innovative new products expected to drive future growth.,MockSource,https://example.com/news/XOM/0,product,positive,162076,XOM,2025-11-22
+1759464000,XOM Expands Market Share,XOM continues to gain market share through strategic initiatives.,MockSource,https://example.com/news/XOM/1,market,positive,162076,XOM,2025-10-03
+1736917200,XOM Faces Regulatory Challenges,Regulatory concerns may impact XOM's operations in key markets.,MockSource,https://example.com/news/XOM/2,regulatory,negative,162076,XOM,2025-01-15
+1748232000,WBA Announces New Product Launch,WBA unveiled innovative new products expected to drive future growth.,MockSource,https://example.com/news/WBA/0,product,positive,180112,WBA,2025-05-26
+1745294400,WBA Reports Strong Quarterly Earnings,Company WBA announced better than expected earnings driven by strong sales growth.,MockSource,https://example.com/news/WBA/1,earnings,positive,180112,WBA,2025-04-22
+1761278400,Analyst Upgrades WBA Rating,Major investment firm upgrades WBA to Buy with higher price target.,MockSource,https://example.com/news/WBA/2,analyst,positive,180112,WBA,2025-10-24
+1747540800,BA Reports Strong Quarterly Earnings,Company BA announced better than expected earnings driven by strong sales growth.,MockSource,https://example.com/news/BA/0,earnings,positive,175319,BA,2025-05-18
+1755230400,BA Reports Strong Quarterly Earnings,Company BA announced better than expected earnings driven by strong sales growth.,MockSource,https://example.com/news/BA/1,earnings,positive,175319,BA,2025-08-15
+1739077200,BA Reports Strong Quarterly Earnings,Company BA announced better than expected earnings driven by strong sales growth.,MockSource,https://example.com/news/BA/2,earnings,positive,175319,BA,2025-02-09
+1759809600,BA Announces New Product Launch,BA unveiled innovative new products expected to drive future growth.,MockSource,https://example.com/news/BA/3,product,positive,175319,BA,2025-10-07
+1746072000,BA Expands Market Share,BA continues to gain market share through strategic initiatives.,MockSource,https://example.com/news/BA/4,market,positive,175319,BA,2025-05-01
+1744257600,BAC Expands Market Share,BAC continues to gain market share through strategic initiatives.,MockSource,https://example.com/news/BAC/0,market,positive,9882,BAC,2025-04-10
+1742011200,BAC Announces New Product Launch,BAC unveiled innovative new products expected to drive future growth.,MockSource,https://example.com/news/BAC/1,product,positive,9882,BAC,2025-03-15
+1733979600,Analyst Upgrades BAC Rating,Major investment firm upgrades BAC to Buy with higher price target.,MockSource,https://example.com/news/BAC/2,analyst,positive,9882,BAC,2024-12-12
+1750305600,BAC Faces Regulatory Challenges,Regulatory concerns may impact BAC's operations in key markets.,MockSource,https://example.com/news/BAC/3,regulatory,negative,9882,BAC,2025-06-19
+1752292800,MA Reports Strong Quarterly Earnings,Company MA announced better than expected earnings driven by strong sales growth.,MockSource,https://example.com/news/MA/0,earnings,positive,15520,MA,2025-07-12
+1751688000,MA Expands Market Share,MA continues to gain market share through strategic initiatives.,MockSource,https://example.com/news/MA/1,market,positive,15520,MA,2025-07-05
+1753070400,MA Reports Strong Quarterly Earnings,Company MA announced better than expected earnings driven by strong sales growth.,MockSource,https://example.com/news/MA/2,earnings,positive,15520,MA,2025-07-21
+1738818000,CSCO Announces New Product Launch,CSCO unveiled innovative new products expected to drive future growth.,MockSource,https://example.com/news/CSCO/0,product,positive,35714,CSCO,2025-02-06
+1742270400,Analyst Upgrades CSCO Rating,Major investment firm upgrades CSCO to Buy with higher price target.,MockSource,https://example.com/news/CSCO/1,analyst,positive,35714,CSCO,2025-03-18
+1754625600,CSCO Announces New Product Launch,CSCO unveiled innovative new products expected to drive future growth.,MockSource,https://example.com/news/CSCO/2,product,positive,35714,CSCO,2025-08-08
+1736485200,WMT Reports Strong Quarterly Earnings,Company WMT announced better than expected earnings driven by strong sales growth.,MockSource,https://example.com/news/WMT/0,earnings,positive,28385,WMT,2025-01-10
+1760155200,WMT Expands Market Share,WMT continues to gain market share through strategic initiatives.,MockSource,https://example.com/news/WMT/1,market,positive,28385,WMT,2025-10-11
+1750651200,WMT Reports Strong Quarterly Earnings,Company WMT announced better than expected earnings driven by strong sales growth.,MockSource,https://example.com/news/WMT/2,earnings,positive,28385,WMT,2025-06-23
+1760500800,WMT Announces New Product Launch,WMT unveiled innovative new products expected to drive future growth.,MockSource,https://example.com/news/WMT/3,product,positive,28385,WMT,2025-10-15
+1743652800,TRV Announces New Product Launch,TRV unveiled innovative new products expected to drive future growth.,MockSource,https://example.com/news/TRV/0,product,positive,11636,TRV,2025-04-03
+1733720400,TRV Expands Market Share,TRV continues to gain market share through strategic initiatives.,MockSource,https://example.com/news/TRV/1,market,positive,11636,TRV,2024-12-09
+1762837200,TRV Reports Strong Quarterly Earnings,Company TRV announced better than expected earnings driven by strong sales growth.,MockSource,https://example.com/news/TRV/2,earnings,positive,11636,TRV,2025-11-11
+1737781200,TRV Reports Strong Quarterly Earnings,Company TRV announced better than expected earnings driven by strong sales growth.,MockSource,https://example.com/news/TRV/3,earnings,positive,11636,TRV,2025-01-25
+1759464000,Analyst Upgrades TRV Rating,Major investment firm upgrades TRV to Buy with higher price target.,MockSource,https://example.com/news/TRV/4,analyst,positive,11636,TRV,2025-10-03
+1742961600,MSFT Faces Regulatory Challenges,Regulatory concerns may impact MSFT's operations in key markets.,MockSource,https://example.com/news/MSFT/0,regulatory,negative,253501,MSFT,2025-03-26
+1758600000,Analyst Upgrades MSFT Rating,Major investment firm upgrades MSFT to Buy with higher price target.,MockSource,https://example.com/news/MSFT/1,analyst,positive,253501,MSFT,2025-09-23
+1754020800,Analyst Upgrades MSFT Rating,Major investment firm upgrades MSFT to Buy with higher price target.,MockSource,https://example.com/news/MSFT/2,analyst,positive,253501,MSFT,2025-08-01
+1743220800,MSFT Expands Market Share,MSFT continues to gain market share through strategic initiatives.,MockSource,https://example.com/news/MSFT/3,market,positive,253501,MSFT,2025-03-29
+1757304000,Analyst Upgrades MSFT Rating,Major investment firm upgrades MSFT to Buy with higher price target.,MockSource,https://example.com/news/MSFT/4,analyst,positive,253501,MSFT,2025-09-08
+1746849600,WMT Expands Market Share,WMT continues to gain market share through strategic initiatives.,MockSource,https://example.com/news/WMT/0,market,positive,61325,WMT,2025-05-10
+1756872000,WMT Expands Market Share,WMT continues to gain market share through strategic initiatives.,MockSource,https://example.com/news/WMT/1,market,positive,61325,WMT,2025-09-03
+1755403200,WMT Faces Regulatory Challenges,Regulatory concerns may impact WMT's operations in key markets.,MockSource,https://example.com/news/WMT/2,regulatory,negative,61325,WMT,2025-08-17
+1734325200,WMT Reports Strong Quarterly Earnings,Company WMT announced better than expected earnings driven by strong sales growth.,MockSource,https://example.com/news/WMT/3,earnings,positive,61325,WMT,2024-12-16
+1756094400,WMT Announces New Product Launch,WMT unveiled innovative new products expected to drive future growth.,MockSource,https://example.com/news/WMT/4,product,positive,61325,WMT,2025-08-25
+1746849600,XOM Expands Market Share,XOM continues to gain market share through strategic initiatives.,MockSource,https://example.com/news/XOM/0,market,positive,133366,XOM,2025-05-10
+1750132800,XOM Faces Regulatory Challenges,Regulatory concerns may impact XOM's operations in key markets.,MockSource,https://example.com/news/XOM/1,regulatory,negative,133366,XOM,2025-06-17
+1760155200,XOM Expands Market Share,XOM continues to gain market share through strategic initiatives.,MockSource,https://example.com/news/XOM/2,market,positive,133366,XOM,2025-10-11
+1764392400,XOM Announces New Product Launch,XOM unveiled innovative new products expected to drive future growth.,MockSource,https://example.com/news/XOM/3,product,positive,133366,XOM,2025-11-29
+1763269200,XOM Expands Market Share,XOM continues to gain market share through strategic initiatives.,MockSource,https://example.com/news/XOM/4,market,positive,133366,XOM,2025-11-16
+1753070400,WBA Announces New Product Launch,WBA unveiled innovative new products expected to drive future growth.,MockSource,https://example.com/news/WBA/0,product,positive,145552,WBA,2025-07-21
+1757304000,Analyst Upgrades WBA Rating,Major investment firm upgrades WBA to Buy with higher price target.,MockSource,https://example.com/news/WBA/1,analyst,positive,145552,WBA,2025-09-08
+1752897600,WBA Reports Strong Quarterly Earnings,Company WBA announced better than expected earnings driven by strong sales growth.,MockSource,https://example.com/news/WBA/2,earnings,positive,145552,WBA,2025-07-19
+1752292800,WBA Expands Market Share,WBA continues to gain market share through strategic initiatives.,MockSource,https://example.com/news/WBA/3,market,positive,145552,WBA,2025-07-12
+1753329600,WBA Expands Market Share,WBA continues to gain market share through strategic initiatives.,MockSource,https://example.com/news/WBA/4,market,positive,145552,WBA,2025-07-24
+1754625600,GS Faces Regulatory Challenges,Regulatory concerns may impact GS's operations in key markets.,MockSource,https://example.com/news/GS/0,regulatory,negative,29127,GS,2025-08-08
+1758254400,GS Announces New Product Launch,GS unveiled innovative new products expected to drive future growth.,MockSource,https://example.com/news/GS/1,product,positive,29127,GS,2025-09-19
+1761969600,GS Faces Regulatory Challenges,Regulatory concerns may impact GS's operations in key markets.,MockSource,https://example.com/news/GS/2,regulatory,negative,29127,GS,2025-11-01
+1749960000,PFE Expands Market Share,PFE continues to gain market share through strategic initiatives.,MockSource,https://example.com/news/PFE/0,market,positive,13700,PFE,2025-06-15
+1737781200,PFE Expands Market Share,PFE continues to gain market share through strategic initiatives.,MockSource,https://example.com/news/PFE/1,market,positive,13700,PFE,2025-01-25
+1753156800,PFE Faces Regulatory Challenges,Regulatory concerns may impact PFE's operations in key markets.,MockSource,https://example.com/news/PFE/2,regulatory,negative,13700,PFE,2025-07-22
+1750219200,PFE Expands Market Share,PFE continues to gain market share through strategic initiatives.,MockSource,https://example.com/news/PFE/3,market,positive,13700,PFE,2025-06-18
+1761192000,HD Expands Market Share,HD continues to gain market share through strategic initiatives.,MockSource,https://example.com/news/HD/0,market,positive,41918,HD,2025-10-23
+1740459600,Analyst Upgrades HD Rating,Major investment firm upgrades HD to Buy with higher price target.,MockSource,https://example.com/news/HD/1,analyst,positive,41918,HD,2025-02-25
+1753156800,HD Announces New Product Launch,HD unveiled innovative new products expected to drive future growth.,MockSource,https://example.com/news/HD/2,product,positive,41918,HD,2025-07-22
+1751601600,HD Faces Regulatory Challenges,Regulatory concerns may impact HD's operations in key markets.,MockSource,https://example.com/news/HD/3,regulatory,negative,41918,HD,2025-07-04
+1753243200,WBA Announces New Product Launch,WBA unveiled innovative new products expected to drive future growth.,MockSource,https://example.com/news/WBA/0,product,positive,23812,WBA,2025-07-23
+1742616000,WBA Reports Strong Quarterly Earnings,Company WBA announced better than expected earnings driven by strong sales growth.,MockSource,https://example.com/news/WBA/1,earnings,positive,23812,WBA,2025-03-22
+1738818000,WBA Expands Market Share,WBA continues to gain market share through strategic initiatives.,MockSource,https://example.com/news/WBA/2,market,positive,23812,WBA,2025-02-06
+1748232000,WBA Reports Strong Quarterly Earnings,Company WBA announced better than expected earnings driven by strong sales growth.,MockSource,https://example.com/news/WBA/3,earnings,positive,23812,WBA,2025-05-26
+1761019200,WBA Faces Regulatory Challenges,Regulatory concerns may impact WBA's operations in key markets.,MockSource,https://example.com/news/WBA/4,regulatory,negative,23812,WBA,2025-10-21
+1762750800,CVX Reports Strong Quarterly Earnings,Company CVX announced better than expected earnings driven by strong sales growth.,MockSource,https://example.com/news/CVX/0,earnings,positive,30137,CVX,2025-11-10
+1753156800,CVX Expands Market Share,CVX continues to gain market share through strategic initiatives.,MockSource,https://example.com/news/CVX/1,market,positive,30137,CVX,2025-07-22
+1742184000,CVX Faces Regulatory Challenges,Regulatory concerns may impact CVX's operations in key markets.,MockSource,https://example.com/news/CVX/2,regulatory,negative,30137,CVX,2025-03-17
+1762232400,CVX Announces New Product Launch,CVX unveiled innovative new products expected to drive future growth.,MockSource,https://example.com/news/CVX/3,product,positive,30137,CVX,2025-11-04
+1737781200,Analyst Upgrades CVX Rating,Major investment firm upgrades CVX to Buy with higher price target.,MockSource,https://example.com/news/CVX/4,analyst,positive,30137,CVX,2025-01-25
+1763096400,Analyst Upgrades NKE Rating,Major investment firm upgrades NKE to Buy with higher price target.,MockSource,https://example.com/news/NKE/0,analyst,positive,2751,NKE,2025-11-14
+1743307200,NKE Expands Market Share,NKE continues to gain market share through strategic initiatives.,MockSource,https://example.com/news/NKE/1,market,positive,2751,NKE,2025-03-30
+1757563200,NKE Faces Regulatory Challenges,Regulatory concerns may impact NKE's operations in key markets.,MockSource,https://example.com/news/NKE/2,regulatory,negative,2751,NKE,2025-09-11
+1749700800,NKE Announces New Product Launch,NKE unveiled innovative new products expected to drive future growth.,MockSource,https://example.com/news/NKE/3,product,positive,2751,NKE,2025-06-12
+1743566400,NKE Expands Market Share,NKE continues to gain market share through strategic initiatives.,MockSource,https://example.com/news/NKE/4,market,positive,2751,NKE,2025-04-02
+1743048000,AAPL Faces Regulatory Challenges,Regulatory concerns may impact AAPL's operations in key markets.,MockSource,https://example.com/news/AAPL/0,regulatory,negative,22260,AAPL,2025-03-27
+1742443200,AAPL Reports Strong Quarterly Earnings,Company AAPL announced better than expected earnings driven by strong sales growth.,MockSource,https://example.com/news/AAPL/1,earnings,positive,22260,AAPL,2025-03-20
+1735966800,AAPL Announces New Product Launch,AAPL unveiled innovative new products expected to drive future growth.,MockSource,https://example.com/news/AAPL/2,product,positive,22260,AAPL,2025-01-04
+1753675200,AAPL Expands Market Share,AAPL continues to gain market share through strategic initiatives.,MockSource,https://example.com/news/AAPL/3,market,positive,22260,AAPL,2025-07-28
+1750824000,MSFT Reports Strong Quarterly Earnings,Company MSFT announced better than expected earnings driven by strong sales growth.,MockSource,https://example.com/news/MSFT/0,earnings,positive,7171,MSFT,2025-06-25
+1763701200,MSFT Expands Market Share,MSFT continues to gain market share through strategic initiatives.,MockSource,https://example.com/news/MSFT/1,market,positive,7171,MSFT,2025-11-21
+1761364800,Analyst Upgrades MSFT Rating,Major investment firm upgrades MSFT to Buy with higher price target.,MockSource,https://example.com/news/MSFT/2,analyst,positive,7171,MSFT,2025-10-25
+1740546000,VZ Reports Strong Quarterly Earnings,Company VZ announced better than expected earnings driven by strong sales growth.,MockSource,https://example.com/news/VZ/0,earnings,positive,61483,VZ,2025-02-26
+1763701200,VZ Announces New Product Launch,VZ unveiled innovative new products expected to drive future growth.,MockSource,https://example.com/news/VZ/1,product,positive,61483,VZ,2025-11-21
+1737608400,VZ Reports Strong Quarterly Earnings,Company VZ announced better than expected earnings driven by strong sales growth.,MockSource,https://example.com/news/VZ/2,earnings,positive,61483,VZ,2025-01-23
+1762750800,VZ Faces Regulatory Challenges,Regulatory concerns may impact VZ's operations in key markets.,MockSource,https://example.com/news/VZ/3,regulatory,negative,61483,VZ,2025-11-10
+1761537600,MMM Reports Strong Quarterly Earnings,Company MMM announced better than expected earnings driven by strong sales growth.,MockSource,https://example.com/news/MMM/0,earnings,positive,15414,MMM,2025-10-27
+1743480000,MMM Reports Strong Quarterly Earnings,Company MMM announced better than expected earnings driven by strong sales growth.,MockSource,https://example.com/news/MMM/1,earnings,positive,15414,MMM,2025-04-01
+1754712000,MMM Announces New Product Launch,MMM unveiled innovative new products expected to drive future growth.,MockSource,https://example.com/news/MMM/2,product,positive,15414,MMM,2025-08-09
