@@ -1,0 +1,31 @@
+trade_date,gvkey,ticker,sentiment_signal,sentiment_confidence,predicted_return,positive_count,negative_count,raw_output
+2024-12-01,1661,NBR,0,0.5,0.0,1,1,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are a seasoned stock market analyst. Your task is to list the positive developments and potential concerns for companies based on relevant news and basic financials from the past weeks, then provide an analysis and prediction for the companies' stock price movement for the upcoming week. Your answer format should be as follows:
+
+[Positive Developments]:
+1....
+
+[Potential Concerns]:
+1....
+
+[Prediction & Analysis]:
+Predicti"
+2024-12-01,2991,CVX,0,0.5,0.0,1,1,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+You are a seasoned stock market analyst. Your task is to list the positive developments and potential concerns for companies based on relevant news and basic financials from the past weeks, then provide an analysis and prediction for the companies' stock price movement for the upcoming week. Your answer format should be as follows:
+
+[Positive Developments]:
+1....
+
+[Potential Concerns]:
+1....
+
+[Prediction & Analysis]:
+Predicti"
