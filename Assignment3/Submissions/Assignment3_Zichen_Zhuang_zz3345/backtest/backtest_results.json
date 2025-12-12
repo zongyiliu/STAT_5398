@@ -1,0 +1,20 @@
+{
+  "strategy": {
+    "total_return": 0.6798826524330357,
+    "annualized_return": 0.7609979460580603,
+    "volatility": 0.19188675497104116,
+    "sharpe_ratio": 3.965870110070428,
+    "max_drawdown": -0.10648894818851662,
+    "win_rate": 0.7272727272727273,
+    "final_value": 1679882.6524330357,
+    "num_trades": 12
+  },
+  "benchmark": {
+    "total_return": 0.27314444700589496,
+    "annualized_return": 0.273144447005895,
+    "volatility": 0.10688348821294459,
+    "sharpe_ratio": 2.5555345504977134,
+    "max_drawdown": -0.02413754616029773,
+    "final_value": 1273144.447005895
+  }
+}
