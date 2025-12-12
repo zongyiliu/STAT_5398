@@ -1,0 +1,1126 @@
+trade_date,gvkey,ticker,sentiment_signal,sentiment_confidence,predicted_return,positive_count,negative_count,raw_output
+2024-12-01,3708,WEN,1,0.25,0.025,2,2,"[INST]<<SYS>>
+You are a seasoned stock market analyst. Your task is to list the positive developments and potential concerns for companies based on relevant news and basic financials from the past weeks, then provide an analysis and prediction for the companies' stock price movement for the upcoming week. Your answer format should be as follows:
+
+[Positive Developments]:
+1. ...
+
+[Potential Concerns]:
+1. ...
+
+[Prediction & Analysis]:
+Prediction: ...
+Analysis: ...
+<</SYS>>
+
+[Company Introduction]:"
+2024-12-01,3863,DLX,0,0.5,0.005,2,2,"[INST]<<SYS>>
+You are a seasoned stock market analyst. Your task is to list the positive developments and potential concerns for companies based on relevant news and basic financials from the past weeks, then provide an analysis and prediction for the companies' stock price movement for the upcoming week. Your answer format should be as follows:
+
+[Positive Developments]:
+1. ...
+
+[Potential Concerns]:
+1. ...
+
+[Prediction & Analysis]:
+Prediction: ...
+Analysis: ...
+<</SYS>>
+
+[Company Introduction]:"
+2024-12-01,4605,FRT,1,0.25,0.025,2,2,"[INST]<<SYS>>
+You are a seasoned stock market analyst. Your task is to list the positive developments and potential concerns for companies based on relevant news and basic financials from the past weeks, then provide an analysis and prediction for the companies' stock price movement for the upcoming week. Your answer format should be as follows:
+
+[Positive Developments]:
+1. ...
+
+[Potential Concerns]:
+1. ...
+
+[Prediction & Analysis]:
+Prediction: ...
+Analysis: ...
+<</SYS>>
+
+[Company Introduction]:"
+2024-12-01,7750,THC,1,0.35000000000000003,0.035,2,2,"[INST]<<SYS>>
+You are a seasoned stock market analyst. Your task is to list the positive developments and potential concerns for companies based on relevant news and basic financials from the past weeks, then provide an analysis and prediction for the companies' stock price movement for the upcoming week. Your answer format should be as follows:
+
+[Positive Developments]:
+1. ...
+
+[Potential Concerns]:
+1. ...
+
+[Prediction & Analysis]:
+Prediction: ...
+Analysis: ...
+<</SYS>>
+
+[Company Introduction]:"
+2024-12-01,10499,TXN,-1,0.6,-0.06,2,2,"[INST]<<SYS>>
+You are a seasoned stock market analyst. Your task is to list the positive developments and potential concerns for companies based on relevant news and basic financials from the past weeks, then provide an analysis and prediction for the companies' stock price movement for the upcoming week. Your answer format should be as follows:
+
+[Positive Developments]:
+1. ...
+
+[Potential Concerns]:
+1. ...
+
+[Prediction & Analysis]:
+Prediction: ...
+Analysis: ...
+<</SYS>>
+
+[Company Introduction]:"
+2024-12-01,14590,FCX,1,0.35000000000000003,0.035,2,2,"[INST]<<SYS>>
+You are a seasoned stock market analyst. Your task is to list the positive developments and potential concerns for companies based on relevant news and basic financials from the past weeks, then provide an analysis and prediction for the companies' stock price movement for the upcoming week. Your answer format should be as follows:
+
+[Positive Developments]:
+1. ...
+
+[Potential Concerns]:
+1. ...
+
+[Prediction & Analysis]:
+Prediction: ...
+Analysis: ...
+<</SYS>>
+
+[Company Introduction]:"
+2024-12-01,20904,HOLX,0,0.5,0.005,2,2,"[INST]<<SYS>>
+You are a seasoned stock market analyst. Your task is to list the positive developments and potential concerns for companies based on relevant news and basic financials from the past weeks, then provide an analysis and prediction for the companies' stock price movement for the upcoming week. Your answer format should be as follows:
+
+[Positive Developments]:
+1. ...
+
+[Potential Concerns]:
+1. ...
+
+[Prediction & Analysis]:
+Prediction: ...
+Analysis: ...
+<</SYS>>
+
+[Company Introduction]:"
+2024-12-01,24216,AES,0,0.5,0.005,2,2,"[INST]<<SYS>>
+You are a seasoned stock market analyst. Your task is to list the positive developments and potential concerns for companies based on relevant news and basic financials from the past weeks, then provide an analysis and prediction for the companies' stock price movement for the upcoming week. Your answer format should be as follows:
+
+[Positive Developments]:
+1. ...
+
+[Potential Concerns]:
+1. ...
+
+[Prediction & Analysis]:
+Prediction: ...
+Analysis: ...
+<</SYS>>
+
+[Company Introduction]:"
+2024-12-01,30490,AIV,0,0.5,0.005,2,2,"[INST]<<SYS>>
+You are a seasoned stock market analyst. Your task is to list the positive developments and potential concerns for companies based on relevant news and basic financials from the past weeks, then provide an analysis and prediction for the companies' stock price movement for the upcoming week. Your answer format should be as follows:
+
+[Positive Developments]:
+1. ...
+
+[Potential Concerns]:
+1. ...
+
+[Prediction & Analysis]:
+Prediction: ...
+Analysis: ...
+<</SYS>>
+
+[Company Introduction]:"
+2024-12-01,30822,O,0,0.5,0.005,2,2,"[INST]<<SYS>>
+You are a seasoned stock market analyst. Your task is to list the positive developments and potential concerns for companies based on relevant news and basic financials from the past weeks, then provide an analysis and prediction for the companies' stock price movement for the upcoming week. Your answer format should be as follows:
+
+[Positive Developments]:
+1. ...
+
+[Potential Concerns]:
+1. ...
+
+[Prediction & Analysis]:
+Prediction: ...
+Analysis: ...
+<</SYS>>
+
+[Company Introduction]:"
+2024-12-01,32580,VICI,0,0.5,0.005,2,2,"[INST]<<SYS>>
+You are a seasoned stock market analyst. Your task is to list the positive developments and potential concerns for companies based on relevant news and basic financials from the past weeks, then provide an analysis and prediction for the companies' stock price movement for the upcoming week. Your answer format should be as follows:
+
+[Positive Developments]:
+1. ...
+
+[Potential Concerns]:
+1. ...
+
+[Prediction & Analysis]:
+Prediction: ...
+Analysis: ...
+<</SYS>>
+
+[Company Introduction]:"
+2024-12-01,36967,BNL,0,0.5,0.005,2,2,"[INST]<<SYS>>
+You are a seasoned stock market analyst. Your task is to list the positive developments and potential concerns for companies based on relevant news and basic financials from the past weeks, then provide an analysis and prediction for the companies' stock price movement for the upcoming week. Your answer format should be as follows:
+
+[Positive Developments]:
+1. ...
+
+[Potential Concerns]:
+1. ...
+
+[Prediction & Analysis]:
+Prediction: ...
+Analysis: ...
+<</SYS>>
+
+[Company Introduction]:"
+2024-12-01,45397,SEG,0,0.5,0.005,2,2,"[INST]<<SYS>>
+You are a seasoned stock market analyst. Your task is to list the positive developments and potential concerns for companies based on relevant news and basic financials from the past weeks, then provide an analysis and prediction for the companies' stock price movement for the upcoming week. Your answer format should be as follows:
+
+[Positive Developments]:
+1. ...
+
+[Potential Concerns]:
+1. ...
+
+[Prediction & Analysis]:
+Prediction: ...
+Analysis: ...
+<</SYS>>
+
+[Company Introduction]:"
+2024-12-01,61483,DVA,0,0.5,0.015,2,2,"[INST]<<SYS>>
+You are a seasoned stock market analyst. Your task is to list the positive developments and potential concerns for companies based on relevant news and basic financials from the past weeks, then provide an analysis and prediction for the companies' stock price movement for the upcoming week. Your answer format should be as follows:
+
+[Positive Developments]:
+1. ...
+
+[Potential Concerns]:
+1. ...
+
+[Prediction & Analysis]:
+Prediction: ...
+Analysis: ...
+<</SYS>>
+
+[Company Introduction]:"
+2024-12-01,133366,EW,1,0.35000000000000003,0.035,2,2,"[INST]<<SYS>>
+You are a seasoned stock market analyst. Your task is to list the positive developments and potential concerns for companies based on relevant news and basic financials from the past weeks, then provide an analysis and prediction for the companies' stock price movement for the upcoming week. Your answer format should be as follows:
+
+[Positive Developments]:
+1. ...
+
+[Potential Concerns]:
+1. ...
+
+[Prediction & Analysis]:
+Prediction: ...
+Analysis: ...
+<</SYS>>
+
+[Company Introduction]:"
+2025-03-01,3708,WEN,0,0.5,0.005,2,2,"[INST]<<SYS>>
+You are a seasoned stock market analyst. Your task is to list the positive developments and potential concerns for companies based on relevant news and basic financials from the past weeks, then provide an analysis and prediction for the companies' stock price movement for the upcoming week. Your answer format should be as follows:
+
+[Positive Developments]:
+1. ...
+
+[Potential Concerns]:
+1. ...
+
+[Prediction & Analysis]:
+Prediction: ...
+Analysis: ...
+<</SYS>>
+
+[Company Introduction]:"
+2025-03-01,3863,DLX,-1,0.35000000000000003,-0.035,2,2,"[INST]<<SYS>>
+You are a seasoned stock market analyst. Your task is to list the positive developments and potential concerns for companies based on relevant news and basic financials from the past weeks, then provide an analysis and prediction for the companies' stock price movement for the upcoming week. Your answer format should be as follows:
+
+[Positive Developments]:
+1. ...
+
+[Potential Concerns]:
+1. ...
+
+[Prediction & Analysis]:
+Prediction: ...
+Analysis: ...
+<</SYS>>
+
+[Company Introduction]:"
+2025-03-01,4605,FRT,1,0.35000000000000003,0.035,2,2,"[INST]<<SYS>>
+You are a seasoned stock market analyst. Your task is to list the positive developments and potential concerns for companies based on relevant news and basic financials from the past weeks, then provide an analysis and prediction for the companies' stock price movement for the upcoming week. Your answer format should be as follows:
+
+[Positive Developments]:
+1. ...
+
+[Potential Concerns]:
+1. ...
+
+[Prediction & Analysis]:
+Prediction: ...
+Analysis: ...
+<</SYS>>
+
+[Company Introduction]:"
+2025-03-01,7750,THC,-1,0.35000000000000003,-0.035,2,2,"[INST]<<SYS>>
+You are a seasoned stock market analyst. Your task is to list the positive developments and potential concerns for companies based on relevant news and basic financials from the past weeks, then provide an analysis and prediction for the companies' stock price movement for the upcoming week. Your answer format should be as follows:
+
+[Positive Developments]:
+1. ...
+
+[Potential Concerns]:
+1. ...
+
+[Prediction & Analysis]:
+Prediction: ...
+Analysis: ...
+<</SYS>>
+
+[Company Introduction]:"
+2025-03-01,10499,TXN,0,0.5,0.005,2,2,"[INST]<<SYS>>
+You are a seasoned stock market analyst. Your task is to list the positive developments and potential concerns for companies based on relevant news and basic financials from the past weeks, then provide an analysis and prediction for the companies' stock price movement for the upcoming week. Your answer format should be as follows:
+
+[Positive Developments]:
+1. ...
+
+[Potential Concerns]:
+1. ...
+
+[Prediction & Analysis]:
+Prediction: ...
+Analysis: ...
+<</SYS>>
+
+[Company Introduction]:"
+2025-03-01,14590,FCX,1,0.25,0.025,2,2,"[INST]<<SYS>>
+You are a seasoned stock market analyst. Your task is to list the positive developments and potential concerns for companies based on relevant news and basic financials from the past weeks, then provide an analysis and prediction for the companies' stock price movement for the upcoming week. Your answer format should be as follows:
+
+[Positive Developments]:
+1. ...
+
+[Potential Concerns]:
+1. ...
+
+[Prediction & Analysis]:
+Prediction: ...
+Analysis: ...
+<</SYS>>
+
+[Company Introduction]:"
+2025-03-01,20904,HOLX,0,0.5,0.015,2,2,"[INST]<<SYS>>
+You are a seasoned stock market analyst. Your task is to list the positive developments and potential concerns for companies based on relevant news and basic financials from the past weeks, then provide an analysis and prediction for the companies' stock price movement for the upcoming week. Your answer format should be as follows:
+
+[Positive Developments]:
+1. ...
+
+[Potential Concerns]:
+1. ...
+
+[Prediction & Analysis]:
+Prediction: ...
+Analysis: ...
+<</SYS>>
+
+[Company Introduction]:"
+2025-03-01,24216,AES,0,0.5,0.005,2,2,"[INST]<<SYS>>
+You are a seasoned stock market analyst. Your task is to list the positive developments and potential concerns for companies based on relevant news and basic financials from the past weeks, then provide an analysis and prediction for the companies' stock price movement for the upcoming week. Your answer format should be as follows:
+
+[Positive Developments]:
+1. ...
+
+[Potential Concerns]:
+1. ...
+
+[Prediction & Analysis]:
+Prediction: ...
+Analysis: ...
+<</SYS>>
+
+[Company Introduction]:"
+2025-03-01,30490,AIV,1,0.35000000000000003,0.035,2,2,"[INST]<<SYS>>
+You are a seasoned stock market analyst. Your task is to list the positive developments and potential concerns for companies based on relevant news and basic financials from the past weeks, then provide an analysis and prediction for the companies' stock price movement for the upcoming week. Your answer format should be as follows:
+
+[Positive Developments]:
+1. ...
+
+[Potential Concerns]:
+1. ...
+
+[Prediction & Analysis]:
+Prediction: ...
+Analysis: ...
+<</SYS>>
+
+[Company Introduction]:"
+2025-03-01,30822,O,0,0.5,0.015,2,2,"[INST]<<SYS>>
+You are a seasoned stock market analyst. Your task is to list the positive developments and potential concerns for companies based on relevant news and basic financials from the past weeks, then provide an analysis and prediction for the companies' stock price movement for the upcoming week. Your answer format should be as follows:
+
+[Positive Developments]:
+1. ...
+
+[Potential Concerns]:
+1. ...
+
+[Prediction & Analysis]:
+Prediction: ...
+Analysis: ...
+<</SYS>>
+
+[Company Introduction]:"
+2025-03-01,32580,VICI,0,0.5,0.005,2,2,"[INST]<<SYS>>
+You are a seasoned stock market analyst. Your task is to list the positive developments and potential concerns for companies based on relevant news and basic financials from the past weeks, then provide an analysis and prediction for the companies' stock price movement for the upcoming week. Your answer format should be as follows:
+
+[Positive Developments]:
+1. ...
+
+[Potential Concerns]:
+1. ...
+
+[Prediction & Analysis]:
+Prediction: ...
+Analysis: ...
+<</SYS>>
+
+[Company Introduction]:"
+2025-03-01,36967,BNL,0,0.5,0.005,2,2,"[INST]<<SYS>>
+You are a seasoned stock market analyst. Your task is to list the positive developments and potential concerns for companies based on relevant news and basic financials from the past weeks, then provide an analysis and prediction for the companies' stock price movement for the upcoming week. Your answer format should be as follows:
+
+[Positive Developments]:
+1. ...
+
+[Potential Concerns]:
+1. ...
+
+[Prediction & Analysis]:
+Prediction: ...
+Analysis: ...
+<</SYS>>
+
+[Company Introduction]:"
+2025-03-01,45397,SEG,0,0.5,0.005,2,2,"[INST]<<SYS>>
+You are a seasoned stock market analyst. Your task is to list the positive developments and potential concerns for companies based on relevant news and basic financials from the past weeks, then provide an analysis and prediction for the companies' stock price movement for the upcoming week. Your answer format should be as follows:
+
+[Positive Developments]:
+1. ...
+
+[Potential Concerns]:
+1. ...
+
+[Prediction & Analysis]:
+Prediction: ...
+Analysis: ...
+<</SYS>>
+
+[Company Introduction]:"
+2025-03-01,61483,DVA,0,0.5,0.005,2,2,"[INST]<<SYS>>
+You are a seasoned stock market analyst. Your task is to list the positive developments and potential concerns for companies based on relevant news and basic financials from the past weeks, then provide an analysis and prediction for the companies' stock price movement for the upcoming week. Your answer format should be as follows:
+
+[Positive Developments]:
+1. ...
+
+[Potential Concerns]:
+1. ...
+
+[Prediction & Analysis]:
+Prediction: ...
+Analysis: ...
+<</SYS>>
+
+[Company Introduction]:"
+2025-03-01,133366,EW,0,0.5,0.005,2,2,"[INST]<<SYS>>
+You are a seasoned stock market analyst. Your task is to list the positive developments and potential concerns for companies based on relevant news and basic financials from the past weeks, then provide an analysis and prediction for the companies' stock price movement for the upcoming week. Your answer format should be as follows:
+
+[Positive Developments]:
+1. ...
+
+[Potential Concerns]:
+1. ...
+
+[Prediction & Analysis]:
+Prediction: ...
+Analysis: ...
+<</SYS>>
+
+[Company Introduction]:"
+2025-06-01,3708,WEN,0,0.5,0.015,2,2,"[INST]<<SYS>>
+You are a seasoned stock market analyst. Your task is to list the positive developments and potential concerns for companies based on relevant news and basic financials from the past weeks, then provide an analysis and prediction for the companies' stock price movement for the upcoming week. Your answer format should be as follows:
+
+[Positive Developments]:
+1. ...
+
+[Potential Concerns]:
+1. ...
+
+[Prediction & Analysis]:
+Prediction: ...
+Analysis: ...
+<</SYS>>
+
+[Company Introduction]:"
+2025-06-01,3863,DLX,0,0.5,0.005,2,2,"[INST]<<SYS>>
+You are a seasoned stock market analyst. Your task is to list the positive developments and potential concerns for companies based on relevant news and basic financials from the past weeks, then provide an analysis and prediction for the companies' stock price movement for the upcoming week. Your answer format should be as follows:
+
+[Positive Developments]:
+1. ...
+
+[Potential Concerns]:
+1. ...
+
+[Prediction & Analysis]:
+Prediction: ...
+Analysis: ...
+<</SYS>>
+
+[Company Introduction]:"
+2025-06-01,4605,FRT,0,0.5,0.005,2,2,"[INST]<<SYS>>
+You are a seasoned stock market analyst. Your task is to list the positive developments and potential concerns for companies based on relevant news and basic financials from the past weeks, then provide an analysis and prediction for the companies' stock price movement for the upcoming week. Your answer format should be as follows:
+
+[Positive Developments]:
+1. ...
+
+[Potential Concerns]:
+1. ...
+
+[Prediction & Analysis]:
+Prediction: ...
+Analysis: ...
+<</SYS>>
+
+[Company Introduction]:"
+2025-06-01,7750,THC,1,0.35000000000000003,0.035,2,2,"[INST]<<SYS>>
+You are a seasoned stock market analyst. Your task is to list the positive developments and potential concerns for companies based on relevant news and basic financials from the past weeks, then provide an analysis and prediction for the companies' stock price movement for the upcoming week. Your answer format should be as follows:
+
+[Positive Developments]:
+1. ...
+
+[Potential Concerns]:
+1. ...
+
+[Prediction & Analysis]:
+Prediction: ...
+Analysis: ...
+<</SYS>>
+
+[Company Introduction]:"
+2025-06-01,10499,TXN,1,0.35000000000000003,0.035,2,2,"[INST]<<SYS>>
+You are a seasoned stock market analyst. Your task is to list the positive developments and potential concerns for companies based on relevant news and basic financials from the past weeks, then provide an analysis and prediction for the companies' stock price movement for the upcoming week. Your answer format should be as follows:
+
+[Positive Developments]:
+1. ...
+
+[Potential Concerns]:
+1. ...
+
+[Prediction & Analysis]:
+Prediction: ...
+Analysis: ...
+<</SYS>>
+
+[Company Introduction]:"
+2025-06-01,14590,FCX,1,0.25,0.025,2,2,"[INST]<<SYS>>
+You are a seasoned stock market analyst. Your task is to list the positive developments and potential concerns for companies based on relevant news and basic financials from the past weeks, then provide an analysis and prediction for the companies' stock price movement for the upcoming week. Your answer format should be as follows:
+
+[Positive Developments]:
+1. ...
+
+[Potential Concerns]:
+1. ...
+
+[Prediction & Analysis]:
+Prediction: ...
+Analysis: ...
+<</SYS>>
+
+[Company Introduction]:"
+2025-06-01,20904,HOLX,1,0.25,0.025,2,2,"[INST]<<SYS>>
+You are a seasoned stock market analyst. Your task is to list the positive developments and potential concerns for companies based on relevant news and basic financials from the past weeks, then provide an analysis and prediction for the companies' stock price movement for the upcoming week. Your answer format should be as follows:
+
+[Positive Developments]:
+1. ...
+
+[Potential Concerns]:
+1. ...
+
+[Prediction & Analysis]:
+Prediction: ...
+Analysis: ...
+<</SYS>>
+
+[Company Introduction]:"
+2025-06-01,24216,AES,0,0.5,0.005,2,2,"[INST]<<SYS>>
+You are a seasoned stock market analyst. Your task is to list the positive developments and potential concerns for companies based on relevant news and basic financials from the past weeks, then provide an analysis and prediction for the companies' stock price movement for the upcoming week. Your answer format should be as follows:
+
+[Positive Developments]:
+1. ...
+
+[Potential Concerns]:
+1. ...
+
+[Prediction & Analysis]:
+Prediction: ...
+Analysis: ...
+<</SYS>>
+
+[Company Introduction]:"
+2025-06-01,30490,AIV,0,0.5,0.005,2,2,"[INST]<<SYS>>
+You are a seasoned stock market analyst. Your task is to list the positive developments and potential concerns for companies based on relevant news and basic financials from the past weeks, then provide an analysis and prediction for the companies' stock price movement for the upcoming week. Your answer format should be as follows:
+
+[Positive Developments]:
+1. ...
+
+[Potential Concerns]:
+1. ...
+
+[Prediction & Analysis]:
+Prediction: ...
+Analysis: ...
+<</SYS>>
+
+[Company Introduction]:"
+2025-06-01,30822,O,1,0.25,0.025,2,2,"[INST]<<SYS>>
+You are a seasoned stock market analyst. Your task is to list the positive developments and potential concerns for companies based on relevant news and basic financials from the past weeks, then provide an analysis and prediction for the companies' stock price movement for the upcoming week. Your answer format should be as follows:
+
+[Positive Developments]:
+1. ...
+
+[Potential Concerns]:
+1. ...
+
+[Prediction & Analysis]:
+Prediction: ...
+Analysis: ...
+<</SYS>>
+
+[Company Introduction]:"
+2025-06-01,32580,VICI,1,0.25,0.025,2,2,"[INST]<<SYS>>
+You are a seasoned stock market analyst. Your task is to list the positive developments and potential concerns for companies based on relevant news and basic financials from the past weeks, then provide an analysis and prediction for the companies' stock price movement for the upcoming week. Your answer format should be as follows:
+
+[Positive Developments]:
+1. ...
+
+[Potential Concerns]:
+1. ...
+
+[Prediction & Analysis]:
+Prediction: ...
+Analysis: ...
+<</SYS>>
+
+[Company Introduction]:"
+2025-06-01,36967,BNL,0,0.5,0.015,2,2,"[INST]<<SYS>>
+You are a seasoned stock market analyst. Your task is to list the positive developments and potential concerns for companies based on relevant news and basic financials from the past weeks, then provide an analysis and prediction for the companies' stock price movement for the upcoming week. Your answer format should be as follows:
+
+[Positive Developments]:
+1. ...
+
+[Potential Concerns]:
+1. ...
+
+[Prediction & Analysis]:
+Prediction: ...
+Analysis: ...
+<</SYS>>
+
+[Company Introduction]:"
+2025-06-01,45397,SEG,0,0.5,0.015,2,2,"[INST]<<SYS>>
+You are a seasoned stock market analyst. Your task is to list the positive developments and potential concerns for companies based on relevant news and basic financials from the past weeks, then provide an analysis and prediction for the companies' stock price movement for the upcoming week. Your answer format should be as follows:
+
+[Positive Developments]:
+1. ...
+
+[Potential Concerns]:
+1. ...
+
+[Prediction & Analysis]:
+Prediction: ...
+Analysis: ...
+<</SYS>>
+
+[Company Introduction]:"
+2025-06-01,61483,DVA,1,0.25,0.025,2,2,"[INST]<<SYS>>
+You are a seasoned stock market analyst. Your task is to list the positive developments and potential concerns for companies based on relevant news and basic financials from the past weeks, then provide an analysis and prediction for the companies' stock price movement for the upcoming week. Your answer format should be as follows:
+
+[Positive Developments]:
+1. ...
+
+[Potential Concerns]:
+1. ...
+
+[Prediction & Analysis]:
+Prediction: ...
+Analysis: ...
+<</SYS>>
+
+[Company Introduction]:"
+2025-06-01,133366,EW,0,0.5,0.015,2,2,"[INST]<<SYS>>
+You are a seasoned stock market analyst. Your task is to list the positive developments and potential concerns for companies based on relevant news and basic financials from the past weeks, then provide an analysis and prediction for the companies' stock price movement for the upcoming week. Your answer format should be as follows:
+
+[Positive Developments]:
+1. ...
+
+[Potential Concerns]:
+1. ...
+
+[Prediction & Analysis]:
+Prediction: ...
+Analysis: ...
+<</SYS>>
+
+[Company Introduction]:"
+2025-09-01,3708,WEN,0,0.5,0.015,2,2,"[INST]<<SYS>>
+You are a seasoned stock market analyst. Your task is to list the positive developments and potential concerns for companies based on relevant news and basic financials from the past weeks, then provide an analysis and prediction for the companies' stock price movement for the upcoming week. Your answer format should be as follows:
+
+[Positive Developments]:
+1. ...
+
+[Potential Concerns]:
+1. ...
+
+[Prediction & Analysis]:
+Prediction: ...
+Analysis: ...
+<</SYS>>
+
+[Company Introduction]:"
+2025-09-01,3863,DLX,0,0.5,0.005,2,2,"[INST]<<SYS>>
+You are a seasoned stock market analyst. Your task is to list the positive developments and potential concerns for companies based on relevant news and basic financials from the past weeks, then provide an analysis and prediction for the companies' stock price movement for the upcoming week. Your answer format should be as follows:
+
+[Positive Developments]:
+1. ...
+
+[Potential Concerns]:
+1. ...
+
+[Prediction & Analysis]:
+Prediction: ...
+Analysis: ...
+<</SYS>>
+
+[Company Introduction]:"
+2025-09-01,4605,FRT,1,0.25,0.025,2,2,"[INST]<<SYS>>
+You are a seasoned stock market analyst. Your task is to list the positive developments and potential concerns for companies based on relevant news and basic financials from the past weeks, then provide an analysis and prediction for the companies' stock price movement for the upcoming week. Your answer format should be as follows:
+
+[Positive Developments]:
+1. ...
+
+[Potential Concerns]:
+1. ...
+
+[Prediction & Analysis]:
+Prediction: ...
+Analysis: ...
+<</SYS>>
+
+[Company Introduction]:"
+2025-09-01,7750,THC,1,0.25,0.025,2,2,"[INST]<<SYS>>
+You are a seasoned stock market analyst. Your task is to list the positive developments and potential concerns for companies based on relevant news and basic financials from the past weeks, then provide an analysis and prediction for the companies' stock price movement for the upcoming week. Your answer format should be as follows:
+
+[Positive Developments]:
+1. ...
+
+[Potential Concerns]:
+1. ...
+
+[Prediction & Analysis]:
+Prediction: ...
+Analysis: ...
+<</SYS>>
+
+[Company Introduction]:"
+2025-09-01,10499,TXN,1,0.6,0.06,2,2,"[INST]<<SYS>>
+You are a seasoned stock market analyst. Your task is to list the positive developments and potential concerns for companies based on relevant news and basic financials from the past weeks, then provide an analysis and prediction for the companies' stock price movement for the upcoming week. Your answer format should be as follows:
+
+[Positive Developments]:
+1. ...
+
+[Potential Concerns]:
+1. ...
+
+[Prediction & Analysis]:
+Prediction: ...
+Analysis: ...
+<</SYS>>
+
+[Company Introduction]:"
+2025-09-01,14590,FCX,0,0.5,0.005,2,2,"[INST]<<SYS>>
+You are a seasoned stock market analyst. Your task is to list the positive developments and potential concerns for companies based on relevant news and basic financials from the past weeks, then provide an analysis and prediction for the companies' stock price movement for the upcoming week. Your answer format should be as follows:
+
+[Positive Developments]:
+1. ...
+
+[Potential Concerns]:
+1. ...
+
+[Prediction & Analysis]:
+Prediction: ...
+Analysis: ...
+<</SYS>>
+
+[Company Introduction]:"
+2025-09-01,20904,HOLX,0,0.5,-0.005,2,2,"[INST]<<SYS>>
+You are a seasoned stock market analyst. Your task is to list the positive developments and potential concerns for companies based on relevant news and basic financials from the past weeks, then provide an analysis and prediction for the companies' stock price movement for the upcoming week. Your answer format should be as follows:
+
+[Positive Developments]:
+1. ...
+
+[Potential Concerns]:
+1. ...
+
+[Prediction & Analysis]:
+Prediction: ...
+Analysis: ...
+<</SYS>>
+
+[Company Introduction]:"
+2025-09-01,24216,AES,0,0.5,0.005,2,2,"[INST]<<SYS>>
+You are a seasoned stock market analyst. Your task is to list the positive developments and potential concerns for companies based on relevant news and basic financials from the past weeks, then provide an analysis and prediction for the companies' stock price movement for the upcoming week. Your answer format should be as follows:
+
+[Positive Developments]:
+1. ...
+
+[Potential Concerns]:
+1. ...
+
+[Prediction & Analysis]:
+Prediction: ...
+Analysis: ...
+<</SYS>>
+
+[Company Introduction]:"
+2025-09-01,30490,AIV,1,0.25,0.025,2,2,"[INST]<<SYS>>
+You are a seasoned stock market analyst. Your task is to list the positive developments and potential concerns for companies based on relevant news and basic financials from the past weeks, then provide an analysis and prediction for the companies' stock price movement for the upcoming week. Your answer format should be as follows:
+
+[Positive Developments]:
+1. ...
+
+[Potential Concerns]:
+1. ...
+
+[Prediction & Analysis]:
+Prediction: ...
+Analysis: ...
+<</SYS>>
+
+[Company Introduction]:"
+2025-09-01,30822,O,0,0.5,0.015,2,2,"[INST]<<SYS>>
+You are a seasoned stock market analyst. Your task is to list the positive developments and potential concerns for companies based on relevant news and basic financials from the past weeks, then provide an analysis and prediction for the companies' stock price movement for the upcoming week. Your answer format should be as follows:
+
+[Positive Developments]:
+1. ...
+
+[Potential Concerns]:
+1. ...
+
+[Prediction & Analysis]:
+Prediction: ...
+Analysis: ...
+<</SYS>>
+
+[Company Introduction]:"
+2025-09-01,32580,VICI,1,0.25,0.025,2,2,"[INST]<<SYS>>
+You are a seasoned stock market analyst. Your task is to list the positive developments and potential concerns for companies based on relevant news and basic financials from the past weeks, then provide an analysis and prediction for the companies' stock price movement for the upcoming week. Your answer format should be as follows:
+
+[Positive Developments]:
+1. ...
+
+[Potential Concerns]:
+1. ...
+
+[Prediction & Analysis]:
+Prediction: ...
+Analysis: ...
+<</SYS>>
+
+[Company Introduction]:"
+2025-09-01,36967,BNL,0,0.5,0.005,2,2,"[INST]<<SYS>>
+You are a seasoned stock market analyst. Your task is to list the positive developments and potential concerns for companies based on relevant news and basic financials from the past weeks, then provide an analysis and prediction for the companies' stock price movement for the upcoming week. Your answer format should be as follows:
+
+[Positive Developments]:
+1. ...
+
+[Potential Concerns]:
+1. ...
+
+[Prediction & Analysis]:
+Prediction: ...
+Analysis: ...
+<</SYS>>
+
+[Company Introduction]:"
+2025-09-01,45397,SEG,0,0.5,0.015,2,2,"[INST]<<SYS>>
+You are a seasoned stock market analyst. Your task is to list the positive developments and potential concerns for companies based on relevant news and basic financials from the past weeks, then provide an analysis and prediction for the companies' stock price movement for the upcoming week. Your answer format should be as follows:
+
+[Positive Developments]:
+1. ...
+
+[Potential Concerns]:
+1. ...
+
+[Prediction & Analysis]:
+Prediction: ...
+Analysis: ...
+<</SYS>>
+
+[Company Introduction]:"
+2025-09-01,61483,DVA,0,0.5,0.015,2,2,"[INST]<<SYS>>
+You are a seasoned stock market analyst. Your task is to list the positive developments and potential concerns for companies based on relevant news and basic financials from the past weeks, then provide an analysis and prediction for the companies' stock price movement for the upcoming week. Your answer format should be as follows:
+
+[Positive Developments]:
+1. ...
+
+[Potential Concerns]:
+1. ...
+
+[Prediction & Analysis]:
+Prediction: ...
+Analysis: ...
+<</SYS>>
+
+[Company Introduction]:"
+2025-09-01,133366,EW,1,0.35000000000000003,0.035,2,2,"[INST]<<SYS>>
+You are a seasoned stock market analyst. Your task is to list the positive developments and potential concerns for companies based on relevant news and basic financials from the past weeks, then provide an analysis and prediction for the companies' stock price movement for the upcoming week. Your answer format should be as follows:
+
+[Positive Developments]:
+1. ...
+
+[Potential Concerns]:
+1. ...
+
+[Prediction & Analysis]:
+Prediction: ...
+Analysis: ...
+<</SYS>>
+
+[Company Introduction]:"
+2025-12-01,3708,WEN,1,0.25,0.025,2,2,"[INST]<<SYS>>
+You are a seasoned stock market analyst. Your task is to list the positive developments and potential concerns for companies based on relevant news and basic financials from the past weeks, then provide an analysis and prediction for the companies' stock price movement for the upcoming week. Your answer format should be as follows:
+
+[Positive Developments]:
+1. ...
+
+[Potential Concerns]:
+1. ...
+
+[Prediction & Analysis]:
+Prediction: ...
+Analysis: ...
+<</SYS>>
+
+[Company Introduction]:"
+2025-12-01,3863,DLX,0,0.5,0.005,2,2,"[INST]<<SYS>>
+You are a seasoned stock market analyst. Your task is to list the positive developments and potential concerns for companies based on relevant news and basic financials from the past weeks, then provide an analysis and prediction for the companies' stock price movement for the upcoming week. Your answer format should be as follows:
+
+[Positive Developments]:
+1. ...
+
+[Potential Concerns]:
+1. ...
+
+[Prediction & Analysis]:
+Prediction: ...
+Analysis: ...
+<</SYS>>
+
+[Company Introduction]:"
+2025-12-01,4605,FRT,1,0.25,0.025,2,2,"[INST]<<SYS>>
+You are a seasoned stock market analyst. Your task is to list the positive developments and potential concerns for companies based on relevant news and basic financials from the past weeks, then provide an analysis and prediction for the companies' stock price movement for the upcoming week. Your answer format should be as follows:
+
+[Positive Developments]:
+1. ...
+
+[Potential Concerns]:
+1. ...
+
+[Prediction & Analysis]:
+Prediction: ...
+Analysis: ...
+<</SYS>>
+
+[Company Introduction]:"
+2025-12-01,7750,THC,1,0.35000000000000003,0.035,2,2,"[INST]<<SYS>>
+You are a seasoned stock market analyst. Your task is to list the positive developments and potential concerns for companies based on relevant news and basic financials from the past weeks, then provide an analysis and prediction for the companies' stock price movement for the upcoming week. Your answer format should be as follows:
+
+[Positive Developments]:
+1. ...
+
+[Potential Concerns]:
+1. ...
+
+[Prediction & Analysis]:
+Prediction: ...
+Analysis: ...
+<</SYS>>
+
+[Company Introduction]:"
+2025-12-01,10499,TXN,1,0.35000000000000003,0.035,2,2,"[INST]<<SYS>>
+You are a seasoned stock market analyst. Your task is to list the positive developments and potential concerns for companies based on relevant news and basic financials from the past weeks, then provide an analysis and prediction for the companies' stock price movement for the upcoming week. Your answer format should be as follows:
+
+[Positive Developments]:
+1. ...
+
+[Potential Concerns]:
+1. ...
+
+[Prediction & Analysis]:
+Prediction: ...
+Analysis: ...
+<</SYS>>
+
+[Company Introduction]:"
+2025-12-01,14590,FCX,0,0.5,0.005,2,2,"[INST]<<SYS>>
+You are a seasoned stock market analyst. Your task is to list the positive developments and potential concerns for companies based on relevant news and basic financials from the past weeks, then provide an analysis and prediction for the companies' stock price movement for the upcoming week. Your answer format should be as follows:
+
+[Positive Developments]:
+1. ...
+
+[Potential Concerns]:
+1. ...
+
+[Prediction & Analysis]:
+Prediction: ...
+Analysis: ...
+<</SYS>>
+
+[Company Introduction]:"
+2025-12-01,20904,HOLX,1,0.25,0.025,2,2,"[INST]<<SYS>>
+You are a seasoned stock market analyst. Your task is to list the positive developments and potential concerns for companies based on relevant news and basic financials from the past weeks, then provide an analysis and prediction for the companies' stock price movement for the upcoming week. Your answer format should be as follows:
+
+[Positive Developments]:
+1. ...
+
+[Potential Concerns]:
+1. ...
+
+[Prediction & Analysis]:
+Prediction: ...
+Analysis: ...
+<</SYS>>
+
+[Company Introduction]:"
+2025-12-01,24216,AES,1,0.35000000000000003,0.035,2,2,"[INST]<<SYS>>
+You are a seasoned stock market analyst. Your task is to list the positive developments and potential concerns for companies based on relevant news and basic financials from the past weeks, then provide an analysis and prediction for the companies' stock price movement for the upcoming week. Your answer format should be as follows:
+
+[Positive Developments]:
+1. ...
+
+[Potential Concerns]:
+1. ...
+
+[Prediction & Analysis]:
+Prediction: ...
+Analysis: ...
+<</SYS>>
+
+[Company Introduction]:"
+2025-12-01,30490,AIV,0,0.5,0.005,2,2,"[INST]<<SYS>>
+You are a seasoned stock market analyst. Your task is to list the positive developments and potential concerns for companies based on relevant news and basic financials from the past weeks, then provide an analysis and prediction for the companies' stock price movement for the upcoming week. Your answer format should be as follows:
+
+[Positive Developments]:
+1. ...
+
+[Potential Concerns]:
+1. ...
+
+[Prediction & Analysis]:
+Prediction: ...
+Analysis: ...
+<</SYS>>
+
+[Company Introduction]:"
+2025-12-01,30822,O,1,0.25,0.025,2,2,"[INST]<<SYS>>
+You are a seasoned stock market analyst. Your task is to list the positive developments and potential concerns for companies based on relevant news and basic financials from the past weeks, then provide an analysis and prediction for the companies' stock price movement for the upcoming week. Your answer format should be as follows:
+
+[Positive Developments]:
+1. ...
+
+[Potential Concerns]:
+1. ...
+
+[Prediction & Analysis]:
+Prediction: ...
+Analysis: ...
+<</SYS>>
+
+[Company Introduction]:"
+2025-12-01,32580,VICI,1,0.25,0.025,2,2,"[INST]<<SYS>>
+You are a seasoned stock market analyst. Your task is to list the positive developments and potential concerns for companies based on relevant news and basic financials from the past weeks, then provide an analysis and prediction for the companies' stock price movement for the upcoming week. Your answer format should be as follows:
+
+[Positive Developments]:
+1. ...
+
+[Potential Concerns]:
+1. ...
+
+[Prediction & Analysis]:
+Prediction: ...
+Analysis: ...
+<</SYS>>
+
+[Company Introduction]:"
+2025-12-01,36967,BNL,0,0.5,0.005,2,2,"[INST]<<SYS>>
+You are a seasoned stock market analyst. Your task is to list the positive developments and potential concerns for companies based on relevant news and basic financials from the past weeks, then provide an analysis and prediction for the companies' stock price movement for the upcoming week. Your answer format should be as follows:
+
+[Positive Developments]:
+1. ...
+
+[Potential Concerns]:
+1. ...
+
+[Prediction & Analysis]:
+Prediction: ...
+Analysis: ...
+<</SYS>>
+
+[Company Introduction]:"
+2025-12-01,45397,SEG,-1,0.25,-0.025,2,2,"[INST]<<SYS>>
+You are a seasoned stock market analyst. Your task is to list the positive developments and potential concerns for companies based on relevant news and basic financials from the past weeks, then provide an analysis and prediction for the companies' stock price movement for the upcoming week. Your answer format should be as follows:
+
+[Positive Developments]:
+1. ...
+
+[Potential Concerns]:
+1. ...
+
+[Prediction & Analysis]:
+Prediction: ...
+Analysis: ...
+<</SYS>>
+
+[Company Introduction]:"
+2025-12-01,61483,DVA,1,0.25,0.025,2,2,"[INST]<<SYS>>
+You are a seasoned stock market analyst. Your task is to list the positive developments and potential concerns for companies based on relevant news and basic financials from the past weeks, then provide an analysis and prediction for the companies' stock price movement for the upcoming week. Your answer format should be as follows:
+
+[Positive Developments]:
+1. ...
+
+[Potential Concerns]:
+1. ...
+
+[Prediction & Analysis]:
+Prediction: ...
+Analysis: ...
+<</SYS>>
+
+[Company Introduction]:"
+2025-12-01,133366,EW,1,0.25,0.025,2,2,"[INST]<<SYS>>
+You are a seasoned stock market analyst. Your task is to list the positive developments and potential concerns for companies based on relevant news and basic financials from the past weeks, then provide an analysis and prediction for the companies' stock price movement for the upcoming week. Your answer format should be as follows:
+
+[Positive Developments]:
+1. ...
+
+[Potential Concerns]:
+1. ...
+
+[Prediction & Analysis]:
+Prediction: ...
+Analysis: ...
+<</SYS>>
+
+[Company Introduction]:"
