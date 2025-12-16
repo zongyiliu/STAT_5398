@@ -1,1 +1,1 @@
-
+This is the repository for STAT 5398, taken in Columbia University in Fall 2025. To avoid wrong pull, I also put my assignments and codes in a local [repository](https://github.com/zongyiliu/STAT_5398_local)
