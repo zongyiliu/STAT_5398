@@ -1,1 +1,3 @@
-This is the repository for STAT 5398, taken in Columbia University in Fall 2025. To avoid wrong pull, I also put my assignments and codes in a local [repository](https://github.com/zongyiliu/STAT_5398_local).
+This is the repository for STAT 5398, taken in Columbia University in Fall 2025. Repo for [Spring 2026](https://github.com/AI4Finance-Foundation/STAT-GR5398-Spring-2026/tree/master/FinRL-Trading-Group/Assignment1)
+
+
